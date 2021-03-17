@@ -1,2 +1,2 @@
-# CloudAcadamy
-CloudAcadamy Training Labs
+# CloudAcademy
+CloudAcademy Training Labs
